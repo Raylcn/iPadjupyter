@@ -9,7 +9,6 @@ dependencies:
     - matplotlib
     - pandas
     - thinc
-    - PIL
     - audiolazy
     - MySQLdb
     - math
